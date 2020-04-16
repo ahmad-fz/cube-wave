@@ -1,6 +1,6 @@
-# P5.js Project Template
+# Cube Wave :ocean:
 
-This is a template for p5.js projects, including webpack, webpack-cli and webpack-dev-server.
+This is sketch to create a cube wave effect with the help of P5.js.
 
 run server:
 ```
